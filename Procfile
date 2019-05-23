@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node JMusicBot-0.2.1-Windows.jar
